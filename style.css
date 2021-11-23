@@ -1,0 +1,46 @@
+body{
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+p{
+  color: dimgray;
+}
+.header{
+    padding-bottom: 5%;
+}
+
+.header-p{
+  float: right;
+  margin-right: 30px;
+}
+
+section{
+  height: 450px;
+  padding-bottom: 250px;
+}
+h1{
+  margin: 0px;
+  font-size: 50px;
+  font-weight: bolder;
+}
+.text-highlight{
+  color: coral;
+}
+
+.half-width{
+  padding-top: 5%;
+  width: 40%;
+  float: left;
+  margin-left: 10%;
+}
+.half-width img{
+  height: 90%;
+  width: 90%;
+}
+.link-button{
+  text-decoration: none;
+  background-image: linear-gradient( crimson , tomato);
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: white;
+}
