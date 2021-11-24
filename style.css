@@ -67,3 +67,55 @@ h2{
   width: 100%;
   height: 100%;
 }
+.text-center{
+  text-align: center;
+  margin: 0;
+}
+
+#last-section{
+  height: 600px;
+}
+#agent{
+  font-size: 30px;
+  font-weight: bolder;
+}
+.message{
+  margin: 1% 30%;
+  border: 5px solid pink;
+  border-radius: 10px;
+}
+#last-work{
+  background-image: url(images/b.png);
+  background-size: cover;
+  background-position: center;
+  height: 150px;
+  margin: 0% 30%;
+  border-radius: 10px; 
+}
+
+.connect-part{
+  width: 30%;
+  float: left;
+  margin-left: 5%;
+}
+#link{
+  text-decoration: none;
+  background-image: linear-gradient( crimson , tomato);
+  padding: 5px 10px;
+  border-radius: 5px;
+  color: white;
+  margin-top: 30%;
+}
+.link{
+  margin-left: 170px;
+  margin-top: 20%;
+}
+.text-center img{
+  margin: 5px 5px;
+  width: 30px;
+  height: 30px;
+}
+footer{
+  text-align: center;
+  font-size: 12px;
+}
